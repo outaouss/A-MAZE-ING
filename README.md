@@ -1,4 +1,4 @@
-![Alt text for the image](https://media.discordapp.net/attachments/1147980047651713095/1472397159398903941/a-maze-ing.jpg?ex=69926c36&is=69911ab6&hm=2783059f3f8b4730c0f93e6e554fc8775a6e5ea9085268d2ce8c89459ca3ab05&=&format=webp&width=1308&height=893)
+![Alt text for the image](A_MAZE_ING.jpeg)
 
 - <b>This project has been created as part of the 42 curriculum by Oussama Amkhou And Oussama Taoussi</b>
 <h1>Description</h1>
